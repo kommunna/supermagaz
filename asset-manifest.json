@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/supermagaz/static/css/main.321a5e1f.css",
+    "main.js": "/supermagaz/static/js/main.3797db80.js",
+    "index.html": "/supermagaz/index.html",
+    "main.321a5e1f.css.map": "/supermagaz/static/css/main.321a5e1f.css.map",
+    "main.3797db80.js.map": "/supermagaz/static/js/main.3797db80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.321a5e1f.css",
+    "static/js/main.3797db80.js"
+  ]
+}
